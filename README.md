@@ -1,4 +1,69 @@
 #我的chrome中关于前端的一些素材、博客、技术文档书签。
 
+
 ###手册
-* [w3school](http://www.w3school.com.cn/)-html,js,css基础
+* [Git - Documentation](https://git-scm.com/doc)
+* [Grunt: JavaScript世界的构建工具 -- Grunt中文网](http://www.gruntjs.net/)
+* [Bower](http://bower.io/)
+* [AngularJS开发指南 中文教程](http://www.360doc.com/content/14/0414/15/14416931_368816305.shtml)
+* [PHP Manual](http://cn2.php.net/manual/zh/preface.php)
+* [w3school 在线教程](http://www.w3school.com.cn/)
+* [MySQL中文参考手册-目录](http://www.cbi.pku.edu.cn/chinese/documents/csdoc/mysql/manual_toc.html)
+* [菜鸟教程](http://www.runoob.com/)
+* [ ThinkPHP3.2.3快速入门](http://www.kancloud.cn/thinkphp/thinkphp_quickstart/2138)
+* [A JavaScript library for building user interfaces | React](https://facebook.github.io/react/)
+* [用于构建用户界面的JAVASCRIPT库 | React](http://www.reactjs.cn/react/index.html)
+* [AngularJS: API: API Reference](http://docs.angularjs.cn/api)
+* [AngularJS: Developer Guide: Developer Guide](https://docs.angularjs.org/guide)
+* [SVN. Getting Started](http://tortoisesvn.net/docs/nightly/TortoiseSVN_en/tsvn-quick-start.html)
+* [Sass: Install Sass](http://sass-lang.com/install)
+
+###素材
+* [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
+* [Font Awesome, the iconic font and CSS toolkit](https://fortawesome.github.io/Font-Awesome/)
+* [Google Fonts](https://www.google.com/fonts)
+* [中文字体](https://chinesefontdesign.com/tag/traditional-chinese-font)
+* [有字库首页_全球第一中文web font（在线字体）服务平台、web font、webfont、在线字体、网络字体](http://youziku.com/Home/Index)
+* [Media Queries](http://mediaqueri.es/)
+* [Animate.css](https://daneden.github.io/animate.css/?)
+* [Bootstrap 中文文档](http://v3.bootcss.com/)
+* [Material UI - Material Design React Components](http://material-ui.com/#/)
+* [Semantic UI](http://semantic-ui.com/)
+* [ECharts · Home](http://echarts.baidu.com/index.html)
+* [HTML Website Templates for Community & Education | WIX](http://www.wix.com/website/templates/html/community-education/1)
+
+###Going
+* [webpack module bundler](https://webpack.github.io/)
+* [gulp.js - the streaming build system](http://gulpjs.com/)
+
+###Done
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [Native HTML5 Drag and Drop - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/dnd/basics/)
+* [一个完整的Flexbox指南 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/a-guide-to-flexbox-new.html)
+* [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [前端知识体系 - naniJser - 博客园](http://www.cnblogs.com/sb19871023/p/3894452.html)
+* [Web Fundamentals — Google Developers](https://developers.google.com/web/fundamentals/?hl=en)
+* [谷歌 Web 开发最佳实践手册：目录（中文翻译进行中） - 博客 - 伯乐在线](http://blog.jobbole.com/45574/)
+* [Index](http://www.w3.org/TR/CSS2/indexlist.html)
+* [HTML5 Canvas Element Tutorial](http://www.html5canvastutorials.com/tutorials/html5-canvas-element/)
+* [SVG Tutorial | tutorials.jenkov.com](http://tutorials.jenkov.com/svg/index.html)
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+* [Getting started with gulp — Mark Goodyear — Front-end developer and designer](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
+* [Browserify](http://browserify.org/)
+* [移动前端开发之viewport的深入理解 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3877280.html)
+* [JavaScript Madness: Keyboard Events](http://unixpapa.com/js/key.html)
+* [WordPress Tutorial: How To Create A WordPress Theme from HTML (Part 1) - WPExplorer](http://www.wpexplorer.com/create-wordpress-theme-html-1/)
+* [WordPress › Page Templates | Theme Developer Handbook | WordPress Developer Resources](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/)
+* [zh-cn:模版 « WordPress Codex](http://codex.wordpress.org/zh-cn:%E6%A8%A1%E7%89%88)
+* [vczero/react-native-lesson](https://github.com/vczero/react-native-lesson)
+* [创建WordPress后台选项界面（一） – ~SolagirL~](http://www.solagirl.net/creating-an-admin-interface.html)
+* [Programming Model](http://algs4.cs.princeton.edu/11model/)
+* [My-blog/Front-end-Developer-Questions/Questions-and-Answers at master · markyun/My-blog](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
+* [GFM 格式说明 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/techird/note/46064)
+* [前端构建工具gulpjs的使用介绍及技巧 - 无双 - 博客园](http://www.cnblogs.com/2050/p/4198792.html)
+* [div+CSS浏览器兼容问题整理(IE6.0、IE7.0 ,ie8 , FireFox.. - 心随灵动 - 博客园](http://www.cnblogs.com/myitm/archive/2011/05/17/2048850.html)
+* [gulp/getting-started.md at master · gulpjs/gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+
+###Blogs
+* [SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design](http://www.sitepoint.com/)
+* [Smashing Magazine – For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
