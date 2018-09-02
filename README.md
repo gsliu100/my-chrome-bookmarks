@@ -1,6 +1,44 @@
 #my chrome中关于前端的一些素材、博客、技术文档书签。
 
 
+
+###web面试
+* [Web前端面试小记 - jCuckoo的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/guoquanyou/article/details/50803742)
+* [JavaScript跨域总结与解决办法 - Rain Man - 博客园](http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html)
+* [浅谈javascript的函数节流 | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2012/11/javascript-throttle/)
+* [2017京东前端校招面试 - 那些年写过的代码 - 博客频道 - CSDN.NET](http://blog.csdn.net/datou0529/article/details/52497249)
+* [Web应用的组件化开发（一） - 文章 - 伯乐在线](http://blog.jobbole.com/56161/)
+* [入门Webpack，看这篇就够了 - 简书](http://www.jianshu.com/p/42e11515c10f#)
+* [“移动端”宴席知多少 -](http://adt.aicai.com/index.php/archives/179/)
+
+###特殊效果
+* [Fixed Background Effect | CodyHouse](https://codyhouse.co/demo/fixed-background-effect/index.html)
+* [Full Screen Vertical Scroller | CSS3 | jQuery | Luke Snowden](http://luke.sno.wden.co.uk/full-screen-vertical-scroll#fsvs-initial-setup)
+* [Fullscreen slideshow](http://codepen.io/suez/pen/ZYwJpa)
+* [Elevator.js](http://tholman.com/elevator.js/)
+* [Pure CSS Questionnaire Concept (hover items)](http://codepen.io/suez/pen/XJGOyL/)
+* [3D Folding Panel | CodyHouse](https://codyhouse.co/demo/3d-folding-effect/index.html)
+* [Login Box Concept](http://codepen.io/jcoulterdesign/pen/azepmX)
+* [Motion Blur Effect with SVG | Image Gallery](http://tympanus.net/Tutorials/MotionBlurEffect/)
+* [background effect | jQuery Plugins](http://jquery-plugins.net/tag/background-effect)
+* [html2canvas - Screenshots with JavaScript](https://html2canvas.hertzen.com/)
+
+###hehe
+* [煎蛋：地球上没有新鲜事](http://jandan.net/)
+* [话题 - 极思维](http://www.topthink.com/topics.html)
+* [博客园 - 开发者的网上家园](http://www.cnblogs.com/)
+* [腾讯CDC](http://cdc.tencent.com/)
+* [WooYun.org | 自由平等开放的漏洞报告平台](http://www.wooyun.org/)
+* [哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili](http://www.bilibili.com/)
+* [牛客网-专业IT笔试面试备考平台,最全C++JAVA前端求职题库,全面提升IT编程能力](http://www.nowcoder.com/164189)
+* [V2EX](https://www.v2ex.com/)
+* [w3cplus_引领web前沿，打造前端精品教程](http://www.w3cplus.com/)
+* [w3cmark_前端笔记_前端笔记网_为你提供最专业的前端笔记和前端资源](http://www.w3cmark.com/)
+* [HTML5梦工场 - 助推HTML5发展](http://www.html5dw.com/)
+* [奇舞周刊](http://old.75team.com/weekly/)
+* [前端开发者手册 | Front-end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+* [One Page Most Loved Websites](https://onepagelove.com/gallery/most-loved)
+
 ###手册
 * [Git - Documentation](https://git-scm.com/doc)
 * [Grunt: JavaScript世界的构建工具 -- Grunt中文网](http://www.gruntjs.net/)
@@ -17,6 +55,10 @@
 * [AngularJS: Developer Guide: Developer Guide](https://docs.angularjs.org/guide)
 * [SVN. Getting Started](http://tortoisesvn.net/docs/nightly/TortoiseSVN_en/tsvn-quick-start.html)
 * [Sass: Install Sass](http://sass-lang.com/install)
+* [HTML Standard](https://html.spec.whatwg.org/multipage/semantics.html#the-link-element)
+* [目录 - [ JS前端开发群规 - 492107297 ]](http://www.kancloud.cn/jikeytang/qq/87646)
+* [Github资源收集——前端篇 - 简书](http://www.jianshu.com/p/4636951ba1a9)
+* [层叠样式表2级修订版1（CSS 2.1）规范中文翻译](http://www.ayqy.net/doc/css2-1/cover.html#minitoc)
 
 ###素材
 * [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
@@ -31,15 +73,24 @@
 * [Semantic UI](http://semantic-ui.com/)
 * [ECharts · Home](http://echarts.baidu.com/index.html)
 * [HTML Website Templates for Community & Education | WIX](http://www.wix.com/website/templates/html/community-education/1)
+* [jQCloud](http://mistic100.github.io/jQCloud/)
+* [首页 - MDUI](https://www.mdui.org/)
 
 ###Going
 * [webpack module bundler](https://webpack.github.io/)
 * [gulp.js - the streaming build system](http://gulpjs.com/)
+* [React Cheat Sheet](http://reactcheatsheet.com/)
+* [Flux | Application Architecture for Building User Interfaces](http://facebook.github.io/flux/docs/todo-list.html#content)
+* [Getting To Know Flux, the React.js Architecture | Scotch](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+* [如何成为前端开发者? | Front-end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/practice/making-fd.html)
+* [Getting Started - vue.js](http://rc.vuejs.org/guide/)
+* [eclipse最有用快捷键整理 - u010504185的博客 - CSDN博客](http://blog.csdn.net/u010504185/article/details/53079810)
 
 ###Done
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Native HTML5 Drag and Drop - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 * [一个完整的Flexbox指南 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/a-guide-to-flexbox-new.html)
+* [前端开发-布局神器display:table-cell](http://www.520ued.com/article/table-cell)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [前端知识体系 - naniJser - 博客园](http://www.cnblogs.com/sb19871023/p/3894452.html)
 * [Web Fundamentals — Google Developers](https://developers.google.com/web/fundamentals/?hl=en)
@@ -63,7 +114,27 @@
 * [前端构建工具gulpjs的使用介绍及技巧 - 无双 - 博客园](http://www.cnblogs.com/2050/p/4198792.html)
 * [div+CSS浏览器兼容问题整理(IE6.0、IE7.0 ,ie8 , FireFox.. - 心随灵动 - 博客园](http://www.cnblogs.com/myitm/archive/2011/05/17/2048850.html)
 * [gulp/getting-started.md at master · gulpjs/gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+* [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+* [深入理解 CSS 中的行高与基线_百度文库](http://wenku.baidu.com/link?url=QsL7o_X2xy-B9ELEN-tSSFTZyJZuwnX9CreMy3nnuBuj35xzNFwseBtX1u9f9Uk5Yo_gqmAYDhoHRHcONh9uiqisuaID79V3jThbHlNlkFS)
+* [jQuery.ajax() 函数详解 - CodePlayer](http://www.365mini.com/page/jquery_ajax.htm)
+* [PhoneGap中文网_中国PhoneGap与Cordova跨平台移动APP开发门户网](http://www.phonegap100.com/)
+* [What is a Digital Signature?](http://www.youdzone.com/signature.html)
+* [【译】60个有用CSS代码片段 - 分享 - SegmentFault](https://segmentfault.com/a/1190000002773955)
+* [邀请我回答的问题 - 知乎](https://www.zhihu.com/question/invited)
+* [Javascript的原型链图（原创 知乎首发） - wang z的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/22189387)
 
 ###Blogs
 * [SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design](http://www.sitepoint.com/)
 * [Smashing Magazine – For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
+* [Codrops | Useful resources and inspiration for creative minds](http://tympanus.net/codrops/)
+* [React 中文](http://react-china.org/)
+* [AndrewRay.me](http://blog.andrewray.me/)
+* [HEXO+Github,搭建属于自己的博客 - 简书](http://www.jianshu.com/p/465830080ea9)
+* [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
+* [CSS-Tricks](https://css-tricks.com/)
+* [CSS: centering things](https://www.w3.org/Style/Examples/007/center)
+* [码农场-自然语言处理、机器学习算法](http://www.hankcs.com/)
+* [Html2canvas通过JS截屏？](http://www.jq22.com/jquery-info588)
+* [IBM developerWorks 中国 : IBM's resource for developers and IT professionals](http://www.ibm.com/developerworks/cn/)
+* [Windows 开发人员中心](https://developer.microsoft.com/zh-cn/windows)
+* [知乎 - 发现更大的世界](https://www.zhihu.com/signup?next=%2F)
